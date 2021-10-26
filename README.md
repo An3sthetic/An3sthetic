@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://github-profile-trophy.vercel.app/?username=An3sthetic&theme=onestar
+https://github-profile-trophy.vercel.app/?username=An3sthetic-ma&theme=onestar
