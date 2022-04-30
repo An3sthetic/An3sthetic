@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [UtopiaApp](https://github.com/ShadmanAbir/UtopiaApp)
 
-- 🌱 I’m currently learning **ML,AI**
+- 🌱 I’m currently learning  [Machine Learning](https://github.com/microsoft/machine-learning-collection)
 
 - 👯 I’m looking to collaborate on [rest-api](https://github.com/topics/rest-api)
 
