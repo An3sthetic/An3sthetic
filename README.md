@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Grace](https://github.com/ShadmanAbir/Grace)
 
-- 💬 Ask me about **.Net Core**
+- 💬 Ask me about [.Net Core](https://dotnet.microsoft.com/en-us/)
 
 - 📫 How to reach me **shadmanabir@outlook.com**
 
